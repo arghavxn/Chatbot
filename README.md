@@ -59,10 +59,9 @@ Contributions to improve ChatBot are welcome. Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-- This project was created as part of [Your Course/Program Name].
-- Special thanks to [Your Instructor/Mentor] for guidance and support.
+- This project was created as part of [Socially Just Coding class with Propel Org.].
 
 ## Contact
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - Arqawan Noori
 
-Project Link: [https://github.com/yourusername/ChatBot](https://github.com/yourusername/ChatBot)
+Project Link: https://github.com/arghavxn/Chatbot.git
