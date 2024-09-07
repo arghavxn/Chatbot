@@ -62,6 +62,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - This project was created as part of [Socially Just Coding class with Propel Org.].
 
 ## Contact
-Your Name - Arqawan Noori
+Arqawan Noori - arqawan.noori@mvsu.edu
 
 Project Link: https://github.com/arghavxn/Chatbot.git
